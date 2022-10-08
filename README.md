@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Christian and I work as a **freelance data scientist**.
+My name is Christian and I work as a **[freelance data scientist](https://clstaudt.me)**.
 
 <!--
 **clstaudt/clstaudt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
