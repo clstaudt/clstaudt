@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi 👋
 
 My name is Christian and I work as a **[freelance data scientist](https://clstaudt.me)**.
+
+### Some Current Projects
+
+- [**The AI Dojo**](https://www.ai-dojo.dev) - immersive artificial intelligence and data science trainings
+
 
 <h3 align="left">Tech I typically work with:</h3>
 <p align="left">
