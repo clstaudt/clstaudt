@@ -5,7 +5,6 @@ My name is Christian and I work as a **[freelance data scientist](https://clstau
 ### Some Current Projects
 
 - [**The AI Dojo**](https://www.ai-dojo.dev) - immersive artificial intelligence and data science trainings
-- [**trIAge**](https://github.com/trIAgelab/trIAge) - an AI assistant for open-source communities
 
 
 <h3 align="left">Tech I typically work with:</h3>
